@@ -15,8 +15,6 @@ npm install -g typescript
 - [函数](./doc/函数.md)
 - [函数](./doc/实时编译.md)
 
-
-
 ## 参考文档
 
 - [TypeScript](https://www.tslang.cn/index.html)
@@ -24,3 +22,9 @@ npm install -g typescript
 - [TypeScript](http://cw.hubwiz.com/card/c/55b724ab3ad79a1b05dcc26c/1/1/1/)
 - [ptbird | Typescript](http://www.ptbird.cn/category/typescript/)
 - [Typescript视频](https://www.bilibili.com/video/av38379328/?p=1)
+- [Typescript视频](https://www.imooc.com/learn/763)
+- [Typescript声明文件查找仓库](https://github.com/typings/typings)
+- [Typescript React 示例](https://github.com/Lemoncode/react-typescript-samples)
+- [React-typescript-cheatsheet-cn](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn)
+- [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
+- [Typescript Example](https://github.com/Jiasm/typescript-example)
