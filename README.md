@@ -13,7 +13,7 @@ npm install -g typescript
 - [接口](./doc/接口.md)
 - [类](./doc/类.md)
 - [函数](./doc/函数.md)
-- [函数](./doc/实时编译.md)
+- [实时编译](./doc/实时编译.md)
 
 ## 参考文档
 
