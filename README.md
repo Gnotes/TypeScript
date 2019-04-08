@@ -29,3 +29,4 @@ npm install -g typescript
 - [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 - [Typescript Example](https://github.com/Jiasm/typescript-example)
 - [TSlint - Rules](https://palantir.github.io/tslint/rules/)
+- [Interface or Type alias](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
