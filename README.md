@@ -28,3 +28,4 @@ npm install -g typescript
 - [React-typescript-cheatsheet-cn](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn)
 - [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 - [Typescript Example](https://github.com/Jiasm/typescript-example)
+- [TSlint - Rules](https://palantir.github.io/tslint/rules/)
