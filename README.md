@@ -30,3 +30,4 @@ npm install -g typescript
 - [Typescript Example](https://github.com/Jiasm/typescript-example)
 - [TSlint - Rules](https://palantir.github.io/tslint/rules/)
 - [Interface or Type alias](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
+- [TypeScript 在 React 中使用总结](https://blog.csdn.net/s2096828/article/details/83744677)
