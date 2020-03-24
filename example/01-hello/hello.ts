@@ -1,5 +1,5 @@
-function greet(name) {
-    return `你好：${name}`;
+function greet(name: string, args: any[] = []) {
+  return `你好：${name}`;
 }
 
 greet("xing.he");

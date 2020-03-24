@@ -2,9 +2,34 @@
 
 ## 安装
 
-```shell
+```bash
 npm install -g typescript
 ```
+
+## 编译
+
+```bash
+# 指定文件
+tsc the_target_ts_file.ts
+# 或者
+# 不指定文件，直接使用 tsc 会查找项目根目录的 tsconfig.json
+tsc
+```
+
+> 查看已全局安装的 npm 包: `npm ls -g --depth 0`
+
+## 配置项 [tsconfig.json](https://www.tslang.cn/docs/handbook/tsconfig-json.html)
+
+通过 `tsc` 命令行自动生成配置文件
+
+```bash
+tsc --init
+```
+
+## VSCode 自动监视代码编译
+
+① 通过 `tsc` 生成 `tsconfig.json` 配置文件  
+② `终端` - `运行任务` - `tsc: 监视 ...`
 
 ## 目录
 
@@ -21,10 +46,10 @@ npm install -g typescript
 - [TypeScript 入门教程](https://ts.xcatliu.com/index.html)
 - [TypeScript](http://cw.hubwiz.com/card/c/55b724ab3ad79a1b05dcc26c/1/1/1/)
 - [ptbird | Typescript](http://www.ptbird.cn/category/typescript/)
-- [Typescript视频](https://www.bilibili.com/video/av38379328/?p=1)
-- [Typescript视频](https://www.imooc.com/learn/763)
-- [Typescript声明文件查找仓库 | 已废弃](https://github.com/typings/typings)
-- [Typescript声明文件查找仓库](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- [Typescript 视频](https://www.bilibili.com/video/av38379328/?p=1)
+- [Typescript 视频](https://www.imooc.com/learn/763)
+- [Typescript 声明文件查找仓库 | 已废弃](https://github.com/typings/typings)
+- [Typescript 声明文件查找仓库](https://github.com/DefinitelyTyped/DefinitelyTyped)
 - [Typescript React 示例](https://github.com/Lemoncode/react-typescript-samples)
 - [React-typescript-cheatsheet-cn](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn)
 - [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter)
