@@ -32,9 +32,10 @@ tsc --init
 
 - [数据类型](./doc/数据类型.md)
 - [变量声明](./doc/变量声明.md)
-- [接口](./doc/接口.md)
-- [类](./doc/类.md)
 - [函数](./doc/函数.md)
+- [类](./doc/类.md)
+- [接口](./doc/接口.md)
+- [泛型](./doc/泛型.md)
 - [实时编译](./doc/实时编译.md)
 
 ## 参考文档
@@ -55,3 +56,4 @@ tsc --init
 - [TSlint-react](https://github.com/palantir/tslint-react)
 - [Interface or Type alias](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 - [TypeScript 在 React 中使用总结](https://blog.csdn.net/s2096828/article/details/83744677)
+- [TypeScript 进阶之重难点梳理](https://xiaozhuanlan.com/topic/6703895421)
