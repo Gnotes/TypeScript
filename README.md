@@ -26,10 +26,7 @@ tsc
 tsc --init
 ```
 
-## VSCode 自动监视代码编译
-
-① 通过 `tsc` 生成 `tsconfig.json` 配置文件  
-② `终端` - `运行任务` - `tsc: 监视 ...`
+## VSCode [实时编译](./doc/实时编译.md)
 
 ## 目录
 
