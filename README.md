@@ -26,7 +26,7 @@ tsc
 tsc --init
 ```
 
-## VSCode [实时编译](./doc/实时编译.md)
+> VSCode [实时编译](./doc/实时编译.md)
 
 ## 目录
 
