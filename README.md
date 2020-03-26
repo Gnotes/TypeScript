@@ -42,9 +42,11 @@ tsc --init
 - [keyof 操作符](./doc/keyof.md)
 - [重难点梳理](https://xiaozhuanlan.com/topic/6703895421)
 - [实时编译](./doc/实时编译.md)
+- [tsc 编译参数选项](https://www.tslang.cn/docs/handbook/compiler-options.html)
 
 ## 参考文档
 
+- [新手示例](https://www.tslang.cn/samples/index.html)
 - [TypeScript](https://www.tslang.cn/index.html)
 - [TypeScript 入门教程](https://ts.xcatliu.com/index.html)
 - [TypeScript](http://cw.hubwiz.com/card/c/55b724ab3ad79a1b05dcc26c/1/1/1/)
