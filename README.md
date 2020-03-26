@@ -39,6 +39,8 @@ tsc --init
 - [模块](./doc/模块.md)
 - [装饰器](./doc/装饰器.md)
 - [实时编译](./doc/实时编译.md)
+- [interface 与 type](./doc/interfaces-vs-types.md)
+- [keyof 操作符](./doc/keyof.md)
 - [重难点梳理](https://xiaozhuanlan.com/topic/6703895421)
 
 ## 参考文档
