@@ -39,6 +39,7 @@ tsc --init
 - [模块](./doc/模块.md)
 - [装饰器](./doc/装饰器.md)
 - [实时编译](./doc/实时编译.md)
+- [重难点梳理](https://xiaozhuanlan.com/topic/6703895421)
 
 ## 参考文档
 
@@ -59,3 +60,5 @@ tsc --init
 - [Interface or Type alias](https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c)
 - [TypeScript 在 React 中使用总结](https://blog.csdn.net/s2096828/article/details/83744677)
 - [TypeScript 进阶之重难点梳理](https://xiaozhuanlan.com/topic/6703895421)
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese)
+- [TypeScript 精通指南](https://nodelover.gitbook.io/typescript/)
