@@ -48,7 +48,7 @@ tsc --init
 
 - [新手示例](https://www.tslang.cn/samples/index.html)
 - [TypeScript](https://www.tslang.cn/index.html)
-- [TypeScript 入门教程](https://ts.xcatliu.com/index.html)
+- [TypeScript 入门教程](https://ts.xcatliu.com)
 - [TypeScript](http://cw.hubwiz.com/card/c/55b724ab3ad79a1b05dcc26c/1/1/1/)
 - [ptbird | Typescript](http://www.ptbird.cn/category/typescript/)
 - [Typescript 视频](https://www.bilibili.com/video/av38379328/?p=1)
