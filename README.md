@@ -66,3 +66,4 @@ tsc --init
 - [TypeScript 进阶之重难点梳理](https://xiaozhuanlan.com/topic/6703895421)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese)
 - [TypeScript 精通指南](https://nodelover.gitbook.io/typescript/)
+- [深入探索 Typescript 的高阶用法](https://mp.weixin.qq.com/s/lgwS59zY4iFFBbCcyvF3CQ)
